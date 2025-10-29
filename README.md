@@ -22,6 +22,11 @@ Welcome to my GitHub! I’m passionate about turning data into insights and deve
 ✅ **Others:** Google Colab, Git, LaTeX  
 
 ---
+# GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=afsana-azad-sarna&show_icons=true&hide_title=true)
+
+---
 
 ## 📚 Current Focus
 - Enhancing my understanding of **Machine Learning algorithms**
