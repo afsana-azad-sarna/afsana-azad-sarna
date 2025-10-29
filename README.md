@@ -24,7 +24,15 @@ Welcome to my GitHub! I’m passionate about turning data into insights and deve
 ---
 # GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=afsana-azad-sarna&show_icons=true&hide_title=true)
+# 👋 Welcome to My GitHub Profile
+
+## 🚀 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=afsana-azad-sarna&show_icons=true&hide_title=true&theme=radical)
+
+## 📊 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afsana-azad-sarna&langs_count=5&layout=compact)
 
 ---
 
